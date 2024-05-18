@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: auth4app\n"
+"Language: ru\n"
+
+msgid "Auth4App Integration Settings"
+msgstr "Настройки интеграции Auth4App"
+
+msgid "API Key Settings"
+msgstr "Настройки API ключа"
+
+msgid "API Key"
+msgstr "API ключ"
+
+msgid "Phone Mask"
+msgstr "Маска телефона"
+
+msgid "Check Interval (seconds)"
+msgstr "Интервал проверки (секунды)"
+
+msgid "Enter your Auth4App API key here."
+msgstr "Введите ваш API ключ Auth4App здесь."
+
+msgid "Auth4App Integration Settings"
+msgstr "Настройки интеграции Auth4App"
+
+msgid "Enter your Auth4App API key and other settings here."
+msgstr "Введите ваш API ключ Auth4App и другие настройки здесь."
+
+msgid "Введите номер телефона:"
+msgstr "Введите номер телефона:"
+
+msgid "Получить код"
+msgstr "Получить код"
+
+msgid "Ошибка при запросе к API"
+msgstr "Ошибка при запросе к API"
+
+msgid "Не удалось создать пользователя."
+msgstr "Не удалось создать пользователя."
+
+msgid "Вы успешно авторизованы."
+msgstr "Вы успешно авторизованы."
+
+msgid "Авторизация не удалась."
+msgstr "Авторизация не удалась."
+
+msgid "Ваш код"
+msgstr "Ваш код"
+
+msgid "Скопировать код"
+msgstr "Скопировать код"
+
+msgid "Код скопирован"
+msgstr "Код скопирован"
+
+msgid "Скопируйте код и вставьте его в любом удобном мессенджере:"
+msgstr "Скопируйте код и вставьте его в любом удобном мессенджере:"

@@ -1,0 +1,71 @@
+#auth4app-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #f9f9f9;
+}
+
+#auth4app-form {
+  display: flex;
+  flex-direction: column;
+}
+
+#auth4app-form label {
+  margin-bottom: 10px;
+}
+
+#auth4app-form input {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#auth4app-form button {
+  padding: 10px;
+  background: #0073aa;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#auth4app-form button:hover {
+  background: #005177;
+}
+
+#auth4app-links {
+  text-align: center;
+}
+
+#copy-code {
+  margin: 10px 0;
+  padding: 10px 20px;
+  background: #0073aa;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#copy-code:hover {
+  background: #005177;
+}
+
+#auth4app-messengers {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+#auth4app-messengers a {
+  display: block;
+  text-decoration: none;
+}
+
+#auth4app-messengers img {
+  width: 50px;
+  height: 50px;
+}
